@@ -1,5 +1,11 @@
 # OpenCraft Studios
-[Official Reddit page](https://www.reddit.com/r/OpenCraftMC/)</br>
+<div class="links">
+  <a href="https://www.reddit.com/r/OpenCraftMC/">Official Reddit Page</a>
+  ·
+  <a href="https://raw.githubusercontent.com/OpenCraft-Studios/.github/main/opencraft.torrent">Download Insiders' Torrent</a>
+</div>
+
+### What is that?
 OpenCraft is a project created by the Minecraft community.
 
 ### Our objectives
